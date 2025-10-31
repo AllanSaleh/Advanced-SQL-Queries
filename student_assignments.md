@@ -25,7 +25,7 @@
 **Requirements**:
 - Show username, post caption, and comment count
 - Only include posts with above-average comments
-- Order by reaction count (descending)
+- Order by comment count (descending)
 - Limit to top 5 posts
 
 **Expected Output**: A table showing posts with above-average engagement.
